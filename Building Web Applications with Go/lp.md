@@ -1,10 +1,10 @@
 categories:
 - Golang
 description: Lets learn how to create a web application in Go language.
-isDraft: true
 approvalStatus: true
 isAvailable: true
 isNew: false
+isDraft: false
 isPremium: false
 license: Apache
 scenarioCount: 5
