@@ -1,6 +1,7 @@
 categories:
 - Golang
 description: Lets learn how to create a web application in Go language.
+
 approvalStatus: true
 isAvailable: true
 isNew: false
